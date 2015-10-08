@@ -10,10 +10,12 @@ public class Hello8 {
 		//helloSeoungwon();
 		//helloJunsu();
 		//helloYoungjo();
+		helloYoungjo();
 	}
 	
 	public static void helloKyunghwan(){
 		System.out.println("Kyunghwan");
+		System.out.println("Youngjo");
 	}
 
 }
