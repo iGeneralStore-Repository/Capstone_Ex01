@@ -24,5 +24,6 @@ public class Hello8 {
 
 	public static void helloSeoungwon(){
 		System.out.println("seoungwon");
+		System.out.println("Seungwon finished his work!"); // added by KH
 	}
 }
