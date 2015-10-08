@@ -10,6 +10,7 @@ public class Hello8 {
 		//helloSeoungwon();
 		//helloJunsu();
 		helloYoungjo();
+		
 	}
 	
 	public static void helloKyunghwan(){
@@ -17,7 +18,8 @@ public class Hello8 {
 	}
 
 	public static void helloYoungjo() {
-		Syetem.out.println("Youngjo");
+		System.out.println("Youngjo");
+		System.out.println("Yongjo finished his work!"); // added by KH
 	}
 
 }
