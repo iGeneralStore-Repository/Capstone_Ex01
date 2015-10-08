@@ -9,13 +9,15 @@ public class Hello8 {
 		helloKyunghwan();
 		//helloSeoungwon();
 		//helloJunsu();
-		//helloYoungjo();
 		helloYoungjo();
 	}
 	
 	public static void helloKyunghwan(){
 		System.out.println("Kyunghwan");
-		System.out.println("Youngjo");
+	}
+
+	public static void helloYoungjo() {
+		Syetem.out.println("Youngjo");
 	}
 
 }
