@@ -8,7 +8,7 @@ public class Hello8 {
 		
 		helloKyunghwan();
 		helloSeoungwon();
-		//helloJunsu();
+		helloJunsu();
 		helloYoungjo();
 		
 	}
@@ -29,5 +29,10 @@ public class Hello8 {
 	public static void helloSeoungwon(){
 		System.out.println("seoungwon");
 		System.out.println("Seungwon finished his work!"); // added by KH
+	}
+	
+	public static void helloJunsu(){
+		System.out.println("Junsu");
+		
 	}
 }
