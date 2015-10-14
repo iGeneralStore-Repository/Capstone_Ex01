@@ -22,6 +22,8 @@ public class Hello8 {
 		System.out.println("Yongjo finished his work!"); // added by KH
 		System.out.println("Test");
 		System.out.println("Test2");
+		System.out.println("Test3");
+		
 	}
 
 	public static void helloSeoungwon(){
