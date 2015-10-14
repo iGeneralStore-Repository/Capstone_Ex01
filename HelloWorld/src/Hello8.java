@@ -20,6 +20,7 @@ public class Hello8 {
 	public static void helloYoungjo() {
 		System.out.println("Youngjo");
 		System.out.println("Yongjo finished his work!"); // added by KH
+		System.out.println("Test");
 	}
 
 	public static void helloSeoungwon(){
